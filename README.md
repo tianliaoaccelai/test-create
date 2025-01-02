@@ -1,2 +1,1 @@
-# test-create
-This is a test repository created via assistant.
+OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence (AGI) benefits all of humanity. We are governed by a nonprofit and unique capped-profit model that drives our commitment to safety.
